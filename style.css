@@ -6,12 +6,12 @@
 
 
 /* Selective typography adjustments — keep original layout and Morandi palette */
-nav a{font-size:14px}
-.hero-content p{font-size:17px}
-.hero-content .lead{font-size:19px}
-.profile-school{font-size:14px}
-.interest h3,.publication-list h3{font-size:18px}
-.interest p{font-size:15px}
-.publication-list p,.publication-list a{font-size:14px}
-.timeline-item h3{font-size:16px}
-.timeline-item p{font-size:14px}
+nav a{font-size:18px}
+.hero-content p{font-size:20px}
+.hero-content .lead{font-size:22px}
+.profile-school{font-size:28px}
+.interest h3,.publication-list h3{font-size:22px}
+.interest p{font-size:20px}
+.publication-list p,.publication-list a{font-size:20px}
+.timeline-item h3{font-size:25px}
+.timeline-item p{font-size:20px}
