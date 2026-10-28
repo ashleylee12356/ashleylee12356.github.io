@@ -3,15 +3,3 @@
 @media(max-width:900px){.header-inner{padding:0 22px}nav{gap:15px}.wrap{padding-left:25px;padding-right:25px}.hero{grid-template-columns:300px 1fr;gap:34px}.profile-card{padding-right:26px}.photo-frame{width:220px;height:220px}.hero-content h2{font-size:43px}.interest-grid{gap:12px}.interest{padding:24px 18px}}
 @media(max-width:720px){.header-inner{min-height:69px}.menu-toggle{display:block}nav{display:none;position:absolute;left:0;right:0;top:69px;flex-direction:column;align-items:stretch;gap:0;background:#eef0e8;border-bottom:1px solid #dfe4da;padding:9px 25px 18px}nav.open{display:flex}nav a{padding:10px 0}.hero{display:block;padding-top:45px;padding-bottom:66px}.profile-card{border:0;border-bottom:1px solid var(--line);padding:0 0 37px;margin:0 0 49px}.photo-frame{height:220px;width:220px}.profile-copy h1{font-size:38px}.hero-content h2{font-size:42px}.hero-decor{right:0;top:-42px;font-size:45px}.section{padding:65px 0 73px}.section-heading h2,.contact h2{font-size:37px}.interest-grid{grid-template-columns:1fr}.interest{min-height:auto}.publication-list li{grid-template-columns:1fr;gap:3px}.timeline-item{grid-template-columns:1fr;gap:3px}.contact-box{display:block}.contact-actions{margin-top:22px}.footer-inner{flex-direction:column;justify-content:center;text-align:center;padding:22px 15px;gap:4px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
-
-
-/* Selective typography adjustments — keep original layout and Morandi palette */
-nav a{font-size:18px}
-.hero-content p{font-size:20px}
-.hero-content .lead{font-size:22px}
-.profile-school{font-size:28px}
-.interest h3,.publication-list h3{font-size:22px}
-.interest p{font-size:20px}
-.publication-list p,.publication-list a{font-size:20px}
-.timeline-item h3{font-size:25px}
-.timeline-item p{font-size:20px}
