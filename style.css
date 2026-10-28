@@ -16,11 +16,11 @@ nav a { font-size: 16px; }
 .hero-content .hero-note { font-size: 14px; }
 .btn { font-size: 15px; }
 .section-heading > p:last-child { font-size: 17px; }
-.interest h3 { font-size: 25px; }
-.interest p { font-size: 22px; line-height: 1.7; }
+.interest h3 { font-size: 23px; }
+.interest p { font-size: 19px; line-height: 1.7; }
 .pub-year { font-size: 17px; }
 .publication-list h3 { font-size: 20px; }
-.publication-list p { font-size: 16px; }
+.publication-list p { font-size: 17px; }
 .publication-list a, .text-link { font-size: 16px; }
 .timeline-item .time { font-size: 17px; }
 .timeline-item h3 { font-size: 20px; }
