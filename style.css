@@ -7,7 +7,7 @@
 
 /* Larger, more readable typography — October 2026.
    All original colors, layout dimensions, and content are preserved. */
-body { font-size: 25px; line-height: 1.72; }
+body { font-size: 22px; line-height: 1.72; }
 nav a { font-size: 16px; }
 .profile-role { font-size: 18px; }
 .profile-school { font-size: 15px; }
@@ -16,17 +16,17 @@ nav a { font-size: 16px; }
 .hero-content .hero-note { font-size: 14px; }
 .btn { font-size: 15px; }
 .section-heading > p:last-child { font-size: 17px; }
-.interest h3 { font-size: 30px; }
-.interest p { font-size: 25px; line-height: 1.7; }
+.interest h3 { font-size: 25px; }
+.interest p { font-size: 22px; line-height: 1.7; }
 .pub-year { font-size: 17px; }
 .publication-list h3 { font-size: 20px; }
 .publication-list p { font-size: 16px; }
 .publication-list a, .text-link { font-size: 16px; }
-.timeline-item .time { font-size: 15px; }
-.timeline-item h3 { font-size: 19px; }
-.timeline-item p { font-size: 16px; }
-.contact p:last-child { font-size: 17px; }
-.footer-inner { font-size: 14px; }
+.timeline-item .time { font-size: 17px; }
+.timeline-item h3 { font-size: 20px; }
+.timeline-item p { font-size: 18px; }
+.contact p:last-child { font-size: 18px; }
+.footer-inner { font-size: 15px; }
 @media (max-width: 900px) {
   nav { gap: 12px; }
   nav a { font-size: 14px; }
